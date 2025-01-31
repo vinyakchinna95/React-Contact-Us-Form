@@ -24,12 +24,12 @@ Frontend: React.js, JSX, CSS
 
 Concepts Used
 =============
-.React Components
-.Props
-.State Hook
-.JSX (with curly braces for embedding JavaScript expressions)
-.Event Handling
-.JavaScript (including conditional rendering)
+React Components,
+Props,
+State Hook,
+JSX (with curly braces for embedding JavaScript expressions),
+Event Handling,
+JavaScript (including conditional rendering).
 
 Screenshots
 ============
