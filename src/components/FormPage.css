@@ -1,0 +1,19 @@
+.from-container{
+    padding: 35px 260px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+}
+
+.two-btns{
+    display: flex;
+    gap: 15px;
+}
+
+.input-container{
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    gap: 15px;
+    align-items: center;
+}
